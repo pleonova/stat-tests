@@ -8,3 +8,8 @@ There are additional notes/formulas for the tests underneath many tests. The col
 I've also listed out useful resources on the right of the flow chart as well as included references in the description boxes at the bottom for learning more about these statistical tests.
 
 Please file suggestions/issues by creating a pull request or if you would rather give me feedback via email, feel free to do so using p.leonova@gmail.com.
+
+
+
+This project is also posted on the following pages:
+- https://madewithml.com/projects/926/which-statistical-test-should-i-use/
