@@ -5,7 +5,7 @@ This flow chart helps you choose the right statistical test to evaluate your exp
 
 [A/B/n Testing Flow Chart](https://miro.com/app/board/o9J_ktaDHWU=/)
 
-<img src="https://github.com/pleonova/stat-tests/blob/master/images/continuous_section_of_flow_chart.png" width="400"> <img src="https://github.com/pleonova/stat-tests/blob/master/images/continuous_section_of_flow_chart.png" width="400" align="right">
+<img src="https://github.com/pleonova/stat-tests/blob/master/images/flow_chart_nodes.png" width="900">
 
 ## Navigating the Chart
 
