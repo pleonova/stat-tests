@@ -3,9 +3,16 @@
 ## Summary 
 This flow chart helps you choose the right statistical test to evaluate your experiments based on the type of data you have, its underlying distribution and assumptions as well as the number of groups and confounding variables you are testing. 
 
-[A/B/n Testing Flow Chart](https://miro.com/app/board/o9J_ktaDHWU=/)
+[A/B/n Testing Flow Chart](https://miro.com/app/board/o9J_ktaDHWU=/) hosted on Miro.com and freely accessible to everyone. 
+
+## Screenshots
 
 <img src="https://github.com/pleonova/stat-tests/blob/master/images/flow_chart_nodes.png" width="900">
+
+<img src="https://github.com/pleonova/stat-tests/blob/master/images/continuous.png" width="400"> <img src="https://github.com/pleonova/stat-tests/blob/master/images/categorical_discrete_time.png" width="400" align="right">
+
+<img src="https://github.com/pleonova/stat-tests/blob/master/images/key_assumptions.png" width="400">
+
 
 ## Navigating the Chart
 
