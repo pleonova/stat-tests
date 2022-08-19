@@ -1,9 +1,10 @@
 # Flow Chart for Statistical Tests
 
 ## Summary 
-This flow chart helps you choose the right statistical test to evaluate your experiments based on the type of data you have, its underlying distribution and assumptions as well as the number of groups and confounding variables you are testing. 
+This flow chart helps you choose the right statistical test to evaluate your experiments based on the type of data you have, its underlying distribution and assumptions as well as the number of groups and confounding variables you are testing.
 
-[A/B/n Testing Flow Chart](https://miro.com/app/board/o9J_ktaDHWU=/) hosted on Miro.com and freely accessible to everyone. 
+## Project
+[Miro Board: A/B/n Testing Flow Chart](https://miro.com/app/board/o9J_ktaDHWU=/)
 
 ## Screenshots
 
@@ -27,8 +28,3 @@ Resources and helpful links are included both in the bottom text boxes as well a
 ## Feedback
 
 I would love to hear your feedback and if you have any suggestions or notice anything that's incorrect, please create a pull a request or if you would rather give me feedback via email, feel free to do so using p.leonova@gmail.com.
-
-## Other Platforms
-
-This project is also posted on the following pages:
-- https://madewithml.com/projects/926/which-statistical-test-should-i-use/
